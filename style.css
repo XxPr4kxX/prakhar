@@ -6,5 +6,9 @@ body {
 h1 {
   font-family: sans-serif;
   text-align: center;
-  font-size: 10em;
+  font-size: 5em;
+  transition: 0.5s all;
+}
+h1:hover {
+  color: #329682;
 }
